@@ -1,7 +1,3 @@
-Got it! Here’s a **clean, minimalist `README.md`** for your **Brand Reputation Dashboard** — simple, clear, and to the point:
-
----
-
 ## Brand Reputation Dashboard
 
 Monitor a brand’s online reputation using news articles and Reddit posts.
