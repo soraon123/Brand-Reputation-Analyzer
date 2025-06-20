@@ -58,7 +58,7 @@ REDDIT_CLIENT_SECRET=your_reddit_client_secret
 ### Run
 
 ```bash
-streamlit run brand_reputation_dashboard.py
+streamlit run app.py
 ```
 
 ---
